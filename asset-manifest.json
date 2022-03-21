@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.36ac22f2.chunk.css",
-    "main.js": "/static/js/main.496e5283.chunk.js",
-    "main.js.map": "/static/js/main.496e5283.chunk.js.map",
+    "main.css": "/static/css/main.d218b664.chunk.css",
+    "main.js": "/static/js/main.238d196e.chunk.js",
+    "main.js.map": "/static/js/main.238d196e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.63cb2196.js",
     "runtime-main.js.map": "/static/js/runtime-main.63cb2196.js.map",
     "static/js/2.82ebc139.chunk.js": "/static/js/2.82ebc139.chunk.js",
     "static/js/2.82ebc139.chunk.js.map": "/static/js/2.82ebc139.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.36ac22f2.chunk.css.map": "/static/css/main.36ac22f2.chunk.css.map",
+    "static/css/main.d218b664.chunk.css.map": "/static/css/main.d218b664.chunk.css.map",
     "static/js/2.82ebc139.chunk.js.LICENSE.txt": "/static/js/2.82ebc139.chunk.js.LICENSE.txt",
     "static/media/european-commission-logo.5055ef4f.svg": "/static/media/european-commission-logo.5055ef4f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.63cb2196.js",
     "static/js/2.82ebc139.chunk.js",
-    "static/css/main.36ac22f2.chunk.css",
-    "static/js/main.496e5283.chunk.js"
+    "static/css/main.d218b664.chunk.css",
+    "static/js/main.238d196e.chunk.js"
   ]
 }
