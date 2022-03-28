@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd515fca.chunk.css",
-    "main.js": "/static/js/main.ab549852.chunk.js",
-    "main.js.map": "/static/js/main.ab549852.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.63cb2196.js",
-    "runtime-main.js.map": "/static/js/runtime-main.63cb2196.js.map",
-    "static/js/2.ecbfd8ba.chunk.js": "/static/js/2.ecbfd8ba.chunk.js",
-    "static/js/2.ecbfd8ba.chunk.js.map": "/static/js/2.ecbfd8ba.chunk.js.map",
+    "main.css": "/static/css/main.23a70a39.chunk.css",
+    "main.js": "/static/js/main.2775538e.chunk.js",
+    "main.js.map": "/static/js/main.2775538e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5422fd4b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5422fd4b.js.map",
+    "static/js/2.f318f9db.chunk.js": "/static/js/2.f318f9db.chunk.js",
+    "static/js/2.f318f9db.chunk.js.map": "/static/js/2.f318f9db.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cd515fca.chunk.css.map": "/static/css/main.cd515fca.chunk.css.map",
-    "static/js/2.ecbfd8ba.chunk.js.LICENSE.txt": "/static/js/2.ecbfd8ba.chunk.js.LICENSE.txt",
-    "static/media/european-commission-logo.5055ef4f.svg": "/static/media/european-commission-logo.5055ef4f.svg",
-    "static/media/search.c1710b83.svg": "/static/media/search.c1710b83.svg"
+    "static/css/main.23a70a39.chunk.css.map": "/static/css/main.23a70a39.chunk.css.map",
+    "static/js/2.f318f9db.chunk.js.LICENSE.txt": "/static/js/2.f318f9db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63cb2196.js",
-    "static/js/2.ecbfd8ba.chunk.js",
-    "static/css/main.cd515fca.chunk.css",
-    "static/js/main.ab549852.chunk.js"
+    "static/js/runtime-main.5422fd4b.js",
+    "static/js/2.f318f9db.chunk.js",
+    "static/css/main.23a70a39.chunk.css",
+    "static/js/main.2775538e.chunk.js"
   ]
 }
